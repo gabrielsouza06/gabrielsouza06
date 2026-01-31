@@ -42,16 +42,15 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  
-  <!-- Estatísticas principais -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsouza06&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=issues" alt="Estatísticas do GitHub" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouza06&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Linguagens mais usadas" />
-  
-  <!-- Streak stats -->
-  <img height="180em" src="https://streak-stats.demolab.com/?user=gabrielsouza06&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições" />
-  
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsouza06&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=issues"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsouza06&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
+
+<img height="180em" src="https://streak-stats.demolab.com/?user=gabrielsouza06&theme=radical&hide_border=true"/>
+
 </div>
+
 
 ---
 
