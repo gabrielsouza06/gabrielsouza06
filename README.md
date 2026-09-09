@@ -50,11 +50,14 @@
 <div align="center">
   <h2>🛸 <ins>Telemetria da Nave</ins> 🛸</h2>
   
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielsouza06&show_icons=true&theme=radical&hide_border=true&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielsouza06&layout=compact&theme=radical&hide_border=true&langs_count=6&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages"/>
+<p align="center">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielsouza06&theme=radical" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=gabrielsouza06&theme=radical" alt="Top Languages"/>
   </p>
   
+  <p align="center">
+    <img height="165em" src="https://streak-stats.demolab.com/?user=gabrielsouza06&theme=radical&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideTitle=FFFFFF&sideStats=FFFFFF" alt="GitHub Streak"/>
+  </p>
   <p align="center">
     <img height="165em" src="https://streak-stats.demolab.com/?user=gabrielsouza06&theme=radical&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideTitle=FFFFFF&sideStats=FFFFFF" alt="GitHub Streak"/>
   </p>
