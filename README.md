@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Gabriel+Souza;Desenvolvedor+Full+Stack;Inovação+%26+Código" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Gabriel+Souza;Desenvolvedor+Full+Stack;Inov%C3%A3%C3%A3o+%26+C%C3%B3digo" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -50,14 +50,11 @@
 <div align="center">
   <h2>🛸 <ins>Telemetria da Nave</ins> 🛸</h2>
   
-<p align="center">
+  <p align="center">
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielsouza06&theme=radical" alt="GitHub Stats"/>
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=gabrielsouza06&theme=radical" alt="Top Languages"/>
   </p>
   
-  <p align="center">
-    <img height="165em" src="https://streak-stats.demolab.com/?user=gabrielsouza06&theme=radical&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideTitle=FFFFFF&sideStats=FFFFFF" alt="GitHub Streak"/>
-  </p>
   <p align="center">
     <img height="165em" src="https://streak-stats.demolab.com/?user=gabrielsouza06&theme=radical&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideTitle=FFFFFF&sideStats=FFFFFF" alt="GitHub Streak"/>
   </p>
