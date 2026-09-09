@@ -52,7 +52,7 @@
   
   <p align="center">
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielsouza06&theme=radical" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=gabrielsouza06&theme=radical" alt="Top Languages"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielsouza06&theme=radical" alt="Top Languages"/>
   </p>
   
   <p align="center">
