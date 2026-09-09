@@ -48,7 +48,7 @@
 ---
 
 <div align="center">
-  <h2>📊 <ins>Registros do Sistema</ins> 📊</h2>
+  <h2>🛸 <ins>Telemetria da Nave</ins> 🛸</h2>
   
   <p align="center">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielsouza06&show_icons=true&theme=radical&hide_border=true&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" alt="GitHub Stats"/>
