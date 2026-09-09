@@ -13,18 +13,12 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <b>Frontend</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap" />
+  <img height="160em" src="https://SUA-INSTANCIA-VERCEL.vercel.app/api?username=gabrielsouza06&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://SUA-INSTANCIA-VERCEL.vercel.app/api/top-langs/?username=gabrielsouza06&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
 </p>
 
 <p align="center">
-  <b>Backend</b><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
+  <img height="165em" src="https://streak-stats.demolab.com/?user=gabrielsouza06&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
