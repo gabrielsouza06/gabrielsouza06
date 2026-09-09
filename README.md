@@ -61,19 +61,18 @@
 </div>
 
 ---
-
 <div align="center">
   <h2>🚀 <ins>Diário de Bordo</ins> 🚀</h2>
 </div>
 
 <p>
-  > 💡 <b>Sempre Codando:</b> Entusiasta de tecnologia apaixonado por desvendar e resolver problemas com código elegante.
+  > 🎓 <b>Formação Acadêmica:</b> Estudante de Engenharia da Computação na <b>UFRB</b> & Técnico em Informática formado pelo <b>IF</b>.
 </p>
 <p>
-  > 📚 <b>Nível de Aprendizado:</b> Em constante evolução, absorvendo novas tecnologias e buscando desafios cósmicos.
+  > 💡 <b>Sempre Codando:</b> Entusiasta de tecnologia em constante evolução, focado em transformar fundamentos de hardware e software em código eficiente.
 </p>
 <p>
-  > 🎯 <b>Destino Final:</b> Criar soluções eficientes e inovadoras que deixem uma marca no multiverso digital.
+  > 🎯 <b>Destino Final:</b> Desenvolver soluções inovadoras e criar impacto positivo através da tecnologia.
 </p>
 
 ---
